@@ -1,3 +1,3 @@
 <?php
 include_once('conf.php');
-echo $rev;
+echo 'rev: '.$rev."\n";
